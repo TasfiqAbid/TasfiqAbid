@@ -1,4 +1,15 @@
-## Hi there 👋
+Hi, I'm Tasfiq Abid 👋
+
+Creative Developer & Designer
+
+I build modern, interactive, and user-friendly web experiences.
+
+🛠 Tech Stack
+- JavaScript, TypeScript
+- React, Next.js
+- HTML, CSS, Tailwind CSS
+- Git & GitHub
+
 
 <!--
 **TasfiqAbid/TasfiqAbid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
